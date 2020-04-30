@@ -1,0 +1,16 @@
+D:\Task\ClientOrganizer\ClientOrganizer.DataAccess\bin\Debug\ClientOrganizer.DataAccess.dll
+D:\Task\ClientOrganizer\ClientOrganizer.DataAccess\bin\Debug\ClientOrganizer.DataAccess.pdb
+D:\Task\ClientOrganizer\ClientOrganizer.DataAccess\bin\Debug\ClientOrganizer.Model.dll
+D:\Task\ClientOrganizer\ClientOrganizer.DataAccess\bin\Debug\ClientOrganizer.Model.pdb
+D:\Task\ClientOrganizer\ClientOrganizer.DataAccess\obj\Debug\ClientOrganizer.DataAccess.csprojAssemblyReference.cache
+D:\Task\ClientOrganizer\ClientOrganizer.DataAccess\obj\Debug\ClientOrganizer.DataAccess.csproj.CoreCompileInputs.cache
+D:\Task\ClientOrganizer\ClientOrganizer.DataAccess\obj\Debug\ClientOrganizer.DataAccess.csproj.CopyComplete
+D:\Task\ClientOrganizer\ClientOrganizer.DataAccess\obj\Debug\ClientOrganizer.DataAccess.dll
+D:\Task\ClientOrganizer\ClientOrganizer.DataAccess\obj\Debug\ClientOrganizer.DataAccess.pdb
+D:\Task\ClientOrganizer\ClientOrganizer.DataAccess\bin\Debug\ClientOrganizer.DataAccess.dll.config
+D:\Task\ClientOrganizer\ClientOrganizer.DataAccess\bin\Debug\EntityFramework.dll
+D:\Task\ClientOrganizer\ClientOrganizer.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Task\ClientOrganizer\ClientOrganizer.DataAccess\bin\Debug\EntityFramework.xml
+D:\Task\ClientOrganizer\ClientOrganizer.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Task\ClientOrganizer\ClientOrganizer.DataAccess\obj\Debug\ClientOrganizer.DataAccess.Migrations.InitialDatabase.resources
+D:\Task\ClientOrganizer\ClientOrganizer.DataAccess\obj\Debug\ClientOrganizer.DataAccess.csproj.GenerateResource.cache
